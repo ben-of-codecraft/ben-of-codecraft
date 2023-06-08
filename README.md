@@ -1,6 +1,30 @@
-### Hi there 👋
+![Header](header.png)
 
-I am a tech leader dropout, as I missed the euphoria and frustrations that come with being directly involved with designing software. I am sure I will update this space 
+**Principal Engineer @rvohealth**
+
+
+## About Me 
+<div style="font-size:23px; display: inline-block; padding-right:6px">⛰️</div> I work from the serene landscapes of rural Virginia. 
+
+<div style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</div>I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.
+
+<div style="font-size:20px; display: inline-block; padding-right:10px">🎮</div> I'm an avid gamer, drawn to games that allow me to build and engage in theorycrafting. 
+
+<div style="font-size:20px; display: inline-block; padding-right:10px">💪</div> I pretend I can get back into shape using a peloton and free weight gym. 
+
+<div style="font-size:22px; display: inline-block; padding-right:10px">👨‍💻</div>  I have been addicted to writing code and learning new frameworks in building software for the last 20 years. 
+
+## 
+Currently, I'm honing my programming skills, particularly in cloud development, after a brief hiatus. I'm cautiously optimistic about the transformative impact of AI-driven technology on our lives. 
+
+###  My Interests
+
+
+
+
+ Feel free to connect with me; I'd be delighted to engage with fellow tech enthusiasts like you.
+
+I euphoria and frustrations that come with being directly involved with designing software. I am sure I will update this space 
 more with new projects and endeavors. 
 
 I like to keep my profile pic updated with art from my 11 year old daughter (who seems to have a knack for digital art) below is the archive of photos that have been on 
