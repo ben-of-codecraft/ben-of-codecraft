@@ -6,10 +6,14 @@
 
 
 ## About Me 
-<span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. <br>
-<span style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</span>I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.<br>
-<span style="font-size:20px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer, drawn to games that allow me to build and engage in theorycrafting. <br>
-<span style="font-size:20px; display: inline-block; padding-right:10px">💪</span> I pretend I can get back into shape using a peloton and free weight gym. <br>
+<span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
+
+<span style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</span>I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.
+
+<span style="font-size:20px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer, drawn to games that allow me to build and engage in theorycrafting. 
+
+<span style="font-size:20px; display: inline-block; padding-right:10px">💪</span> I pretend I can get back into shape using a peloton and free weight gym. 
+
 <span style="font-size:22px; display: inline-block; padding-right:10px">👨‍💻</span>  I love writing code and tinkering with random open source projects.  
 
 ## 
