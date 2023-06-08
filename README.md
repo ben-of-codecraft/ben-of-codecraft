@@ -1,5 +1,5 @@
 <!-- ![Header](header.png | width=100) -->
-<img src="header.png" height="125px" style="align:block"> 
+<img src="header.png" height="65px" style="align:block"> 
 
 ## Who I am <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <img src="images/b-o-c.png" align="right" height="200px" />
