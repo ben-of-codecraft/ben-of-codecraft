@@ -1,7 +1,4 @@
-<!-- ![Header](header.png | width=100) -->
-<img src="header.png" height="75px" style="align:block"> 
-
-## Who I am <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+## Hi, I am Ben <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 <img src="images/b-o-c.png" align="right" height="200px" />
 
 <span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
