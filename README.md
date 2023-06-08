@@ -1,10 +1,12 @@
-![Header](header.png)
+<!-- ![Header](header.png | width=100) -->
+<img src="header.png" width="80%" style="align:block"> 
+
 
 **Principal Engineer @rvohealth**
 
 
 ## About Me 
-<div style="font-size:23px; display: inline-block; padding-right:6px">⛰️</div> I work from the serene landscapes of rural Virginia. 
+<span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
 
 <div style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</div>I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.
 
@@ -37,6 +39,7 @@ display.
 *March* 
 
 *April* 
+
 
 <!--
 **ben-of-codecraft/ben-of-codecraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
