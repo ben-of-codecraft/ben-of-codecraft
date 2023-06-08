@@ -1,17 +1,6 @@
 <!-- ![Header](header.png | width=100) -->
-<img src="header.png" width="80%" style="align:block"> 
+<img src="header.png" width="60%" style="align:block"> 
 
-
-|**Principal Engineer @rvohealth**|**Principal Engineer @rvohealth**|
-<table border="0">
- <tr>
-    <td><img src="images/rvo-health-logo.jpeg" width="64px" /></td>
-    <td>
-        <h3>Principal Engineer</h3>
-        <h5>Cloud Infrastructure</h5>
-    </td>
- </tr>
- </table>
 
 
 
