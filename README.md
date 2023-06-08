@@ -1,5 +1,5 @@
 ## Hi, I am Ben <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-<img src="images/b-o-c.png" align="right" height="200px" />
+<img src="images/b-o-c.png" align="right" height="230px" />
 
 <span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
 
