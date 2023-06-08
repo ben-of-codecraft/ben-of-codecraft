@@ -1,16 +1,14 @@
 <!-- ![Header](header.png | width=100) -->
 <img src="header.png" width="60%" style="align:block"> 
 
-
-
-
-
-## About Me 
+## Who I am <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<img src="images/b-o-c.png" align="right" height="200px" />
 <span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
 
 <span style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</span>I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.
 
 <span style="font-size:20px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer, drawn to games that allow me to build and engage in theorycrafting. 
+
 
 <span style="font-size:20px; display: inline-block; padding-right:10px">💪</span> I pretend I can get back into shape using a peloton and free weight gym. 
 
