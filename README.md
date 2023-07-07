@@ -3,7 +3,7 @@
 
 <span style="font-size:23px; display: inline-block; padding-right:6px">⛰️</span> I work from the serene landscapes of rural Virginia. 
 
-<span style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</span> I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of five cats and three dogs.
+<span style="font-size:20px; display: inline-block; padding-right:14px">👨‍👩‍👧</span> I have a loving family, which includes my wonderful wife, two daughters, and a lively menagerie of six cats and two dogs.
 
 <span style="font-size:20px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer, drawn to games that allow me to build and engage in theorycrafting. 
 
