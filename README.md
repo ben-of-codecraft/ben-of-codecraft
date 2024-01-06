@@ -14,7 +14,7 @@
 
 <br><br>
 ## Archive of GitHub Profile
-I update my GH profile pic with art from my 11 year old daughter (who seems to have a knack for digital art) below is the archive of photos that have been used. 
+I update my GH profile pic with art from my 12 year old daughter (who seems to have a knack for digital art) below is the archive of photos that have been used. 
 
 | *Jan* | *Feb* | *Mar* |
 | --- | --- | --- |
