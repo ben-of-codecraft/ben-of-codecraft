@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ben-of-codecraft/electron-wix-msi/commit/a7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5\"><strong>a</strong>7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/1dc258d7b0a9e7965e3636a355df57ff80a04480\">1dc258d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f\">fadbd5a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7e76cd4afd0acf5586db49746e7df68c4afd2b0b\">7e76cd4</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/d7ca28b8cd1fd28599ab9b4acf3fdb8885a44b47\">d7ca28b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/bd9703c366c84edfbbc380c69fbd64a0569db05c\">bd9703c</a>\n- <a href=\"https://github.com/ben-of-codecraft/mod-autobalance/commit/268a717d3b1a60cf130c8953a3153d85e3b0f7bb\">268a717</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/a54861388cd7bad8a3639ebce438067a10ddac8f\">a548613</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/1dc258d7b0a9e7965e3636a355df57ff80a04480\">1dc258d</a>: fixed more issues with uploaded and fixed windows electron build\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/0e5aeb4568bb27f62497c0fc8aec1a6dc7e996cf\">0e5aeb4</a>: Fixed issue with unrecognized mimetypes like binray files",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"improving\".",
+    "body": "My favorite commit message words are:\n\n1. improving (used 15 times)\n2. readme (used 15 times)\n3. added (used 8 times)\n4. to (used 5 times)\n5. fixed (used 4 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rvohealth/QuitNow-CorpSite/issues/148\">#148</a>: Critical Vulnerabilities on dependencies in docker image. ",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
