@@ -23,6 +23,8 @@
 <a href="my-badges/ab-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <!-- my-badges end -->
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <br><br>
 ## Archive of GitHub Profile
 I update my GH profile pic with art from my 12 year old daughter (who seems to have a knack for digital art) below is the archive of photos that have been used. 
