@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f\">fadbd5a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7e76cd4afd0acf5586db49746e7df68c4afd2b0b\">7e76cd4</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/d7ca28b8cd1fd28599ab9b4acf3fdb8885a44b47\">d7ca28b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/bd9703c366c84edfbbc380c69fbd64a0569db05c\">bd9703c</a>\n- <a href=\"https://github.com/ben-of-codecraft/mod-autobalance/commit/268a717d3b1a60cf130c8953a3153d85e3b0f7bb\">268a717</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/a54861388cd7bad8a3639ebce438067a10ddac8f\">a548613</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/118f181f04ec19b0b8459cfcc175824e6cef34ff\">118f181</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ab20546f58856de224dcfb2f6fb7cbb7118928e8\">ab20546</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f\">fadbd5a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7e76cd4afd0acf5586db49746e7df68c4afd2b0b\">7e76cd4</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/d7ca28b8cd1fd28599ab9b4acf3fdb8885a44b47\">d7ca28b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/bd9703c366c84edfbbc380c69fbd64a0569db05c\">bd9703c</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"improving\".",
-    "body": "My favorite commit message words are:\n\n1. improving (used 15 times)\n2. readme (used 15 times)\n3. added (used 8 times)\n4. to (used 5 times)\n5. fixed (used 4 times)",
+    "body": "My favorite commit message words are:\n\n1. improving (used 15 times)\n2. readme (used 15 times)\n3. added (used 9 times)\n4. to (used 5 times)\n5. of (used 4 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rvohealth/QuitNow-CorpSite/issues/148\">#148</a>: Critical Vulnerabilities on dependencies in docker image. ",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ab20546f58856de224dcfb2f6fb7cbb7118928e8\"><strong>ab</strong>20546f58856de224dcfb2f6fb7cbb7118928e8</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   }
 ]
