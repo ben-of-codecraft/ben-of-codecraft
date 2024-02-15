@@ -10,6 +10,15 @@
 <span style="font-size:22px; display: inline-block; padding-right:10px">👨‍💻</span>  I love writing code and working on open source projects, especiall with TypeScript.  
 
 <!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+
+<a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/morning-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
+<a href="my-badges/evening-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/public-keys-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;improving&quot;." title="My favorite word is &quot;improving&quot;." width="64"></a>
+<a href="my-badges/rebel-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
 <!-- my-badges end -->
 
 <br><br>
