@@ -236,7 +236,7 @@
       "deployments_url": "https://api.github.com/repos/ben-of-codecraft/ben-of-codecraft/deployments",
       "created_at": "2023-02-28T20:46:51Z",
       "updated_at": "2023-02-28T20:46:51Z",
-      "pushed_at": "2024-02-15T22:45:39Z",
+      "pushed_at": "2024-02-15T22:49:19Z",
       "git_url": "git://github.com/ben-of-codecraft/ben-of-codecraft.git",
       "ssh_url": "git@github.com:ben-of-codecraft/ben-of-codecraft.git",
       "clone_url": "https://github.com/ben-of-codecraft/ben-of-codecraft.git",
@@ -275,6 +275,34 @@
         "pull": true
       },
       "commits": [
+        {
+          "sha": "118f181f04ec19b0b8459cfcc175824e6cef34ff",
+          "committedDate": "2024-02-15T22:49:10Z",
+          "message": "Merge branch 'main' of github.com:ben-of-codecraft/ben-of-codecraft",
+          "messageBody": "",
+          "additions": 153,
+          "deletions": 0,
+          "repository": {
+            "owner": {
+              "login": "ben-of-codecraft"
+            },
+            "name": "ben-of-codecraft"
+          }
+        },
+        {
+          "sha": "ab20546f58856de224dcfb2f6fb7cbb7118928e8",
+          "committedDate": "2024-02-15T22:48:58Z",
+          "message": "added more badges",
+          "messageBody": "",
+          "additions": 821,
+          "deletions": 3,
+          "repository": {
+            "owner": {
+              "login": "ben-of-codecraft"
+            },
+            "name": "ben-of-codecraft"
+          }
+        },
         {
           "sha": "fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f",
           "committedDate": "2024-02-15T22:43:59Z",
