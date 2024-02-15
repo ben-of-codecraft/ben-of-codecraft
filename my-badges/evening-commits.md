@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/118f181f04ec19b0b8459cfcc175824e6cef34ff">118f181</a>
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ab20546f58856de224dcfb2f6fb7cbb7118928e8">ab20546</a>
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f">fadbd5a</a>
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7e76cd4afd0acf5586db49746e7df68c4afd2b0b">7e76cd4</a>
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/d7ca28b8cd1fd28599ab9b4acf3fdb8885a44b47">d7ca28b</a>
-- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/bd9703c366c84edfbbc380c69fbd64a0569db05c">bd9703c</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/717b21db0acee47a6728092187a017e4aca249f5">717b21d</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/a406a57a2fa1837a0c36bd1a1d66ec8e8a4a2c3d">a406a57</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/f7e71800635bf616ef9d5505ef34389f27dbf44c">f7e7180</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/8093e382aa898048e24446432bf16f85e678b90d">8093e38</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/733617ec1e80132ba12fc73a99e356dcf87acda8">733617e</a>
+- <a href="https://github.com/ben-of-codecraft/ben-of-codecraft/commit/cd95f15cc83fd4760f1d51f5b0b6ea3a3798088d">cd95f15</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
