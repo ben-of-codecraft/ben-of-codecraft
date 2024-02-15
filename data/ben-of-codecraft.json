@@ -236,7 +236,7 @@
       "deployments_url": "https://api.github.com/repos/ben-of-codecraft/ben-of-codecraft/deployments",
       "created_at": "2023-02-28T20:46:51Z",
       "updated_at": "2023-02-28T20:46:51Z",
-      "pushed_at": "2024-02-12T21:37:45Z",
+      "pushed_at": "2024-02-15T22:45:39Z",
       "git_url": "git://github.com/ben-of-codecraft/ben-of-codecraft.git",
       "ssh_url": "git@github.com:ben-of-codecraft/ben-of-codecraft.git",
       "clone_url": "https://github.com/ben-of-codecraft/ben-of-codecraft.git",
@@ -275,6 +275,20 @@
         "pull": true
       },
       "commits": [
+        {
+          "sha": "fadbd5a9c6fd0e89a9a3b0044fb893c631cbea9f",
+          "committedDate": "2024-02-15T22:43:59Z",
+          "message": "Added badges",
+          "messageBody": "",
+          "additions": 1249,
+          "deletions": 5,
+          "repository": {
+            "owner": {
+              "login": "ben-of-codecraft"
+            },
+            "name": "ben-of-codecraft"
+          }
+        },
         {
           "sha": "7e76cd4afd0acf5586db49746e7df68c4afd2b0b",
           "committedDate": "2024-02-12T21:37:45Z",
@@ -1217,5 +1231,809 @@
     }
   ],
   "pulls": [],
-  "issues": []
+  "issues": [
+    {
+      "createdAt": "2023-09-15T17:07:33Z",
+      "closedAt": "2023-09-20T14:47:08Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 148,
+      "title": "Critical Vulnerabilities on dependencies in docker image. ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "critical-security"
+          }
+        ]
+      },
+      "body": "We have detected 4 critical vulnerabilities on this site.  The need remediated as soon as possible. \r\n\r\nYou can use this script to address the issue: \r\nhttps://github.com/rvohealth/appsec-tools/blob/main/security-fixes/wordpress/wp8.2%3Aapache-update.sh\r\n\r\nPlease correct as soon as possible. ",
+      "comments": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvohealth"
+        },
+        "name": "QuitNow-CorpSite"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:20:26Z",
+      "closedAt": "2023-10-05T04:26:59Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 1,
+      "title": "[Bug] Manifest file gets corrupted when handling multiple files updates. ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "bug"
+          }
+        ]
+      },
+      "body": "## Expected Behavior\r\nThe patches and store should have updated correctly\r\n\r\n## Current Behavior\r\nmanifest.json Files gets corrupted and becomes invalid json\r\n\r\n## Steps to Reproduce\r\n\r\n<!-- Add relevant code and/or a live example -->\r\n\r\n1. Click on Install Store - randomly may corrupt file\r\n\r\n2. Click on Install HD patch may randomly corrupt file\r\n\r\n",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:20:53Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 2,
+      "title": "AutoUpdate client",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "The client should be able to be autoupdated if there is a new release .",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:21:58Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 3,
+      "title": "Add Github actions to publish release binaries ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "On npm package:windows it should complete by creating a new tag and release in GitHub that will kick off any auto-updates to clients. ",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:22:25Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 4,
+      "title": "Add new menu item that will download base client from ChromieCraft ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:22:52Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 5,
+      "title": "Add additional links to page for instructions and how to submit an issue in the client . ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:24:07Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 6,
+      "title": "Should have last 3 news updates for previous versions that can be toggled through",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "Currently on the latest news is available, want to have it so you can see last 3 updates as well as latest news on main page. ",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:30:05Z",
+      "closedAt": "2023-11-26T22:50:57Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 1,
+      "title": "[Feature] - Use Market Pricing that is updated weekly from 4 other private servers. ",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "I will have market_price data in partnership from wow auction site that collects the data.  I will get the script updating weekly on the server this weekend, if you want to use that data. ",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 1
+      },
+      "assignees": {
+        "totalCount": 1
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "mod-auctionator"
+      }
+    },
+    {
+      "createdAt": "2023-10-05T02:42:00Z",
+      "closedAt": "2023-10-05T04:26:59Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 7,
+      "title": "Downloader percentage glitches out on batch downloads",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "bug"
+          }
+        ]
+      },
+      "body": "## Expected Behavior\r\n\r\nDownloader should state current percentage completed \r\n\r\n## Current Behavior\r\n\r\nDownload percentage is not showing a consistent number all the time\r\n\r\n## Steps to Reproduce\r\n\r\n<!-- Add relevant code and/or a live example -->\r\n\r\n1. Attempt to patch multiple things at once o\r\n\r\n2.\r\n\r\n3.\r\n\r\n4.\r\n",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-client-patcher"
+      }
+    },
+    {
+      "createdAt": "2024-01-06T20:32:19Z",
+      "closedAt": "2024-01-07T15:44:18Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 18118,
+      "title": "ConditionMgr will log errors when CONFIG_EXPANSION is not set to 3 ",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "### Current Behavior\r\n\r\nLogs many errors into logs or console that look like this: \r\n\r\nERROR Skill condition specifies invalid skill value (300), skipped\r\n\r\n### Expected Blizzlike Behavior\r\n\r\nShould ignore conditions that are greater than max skill level for each expansion and not log error.\r\n\r\n### Source\r\n\r\nI would recommend this change\r\n```\r\n--- a/src/server/game/Conditions/ConditionMgr.cpp\r\n+++ b/src/server/game/Conditions/ConditionMgr.cpp\r\n@@ -2004,8 +2004,21 @@ bool ConditionMgr::isConditionTypeValid(Condition* cond)\r\n \r\n         if (cond->ConditionValue2 < 1 || cond->ConditionValue2 > sWorld->GetConfigMaxSkillValue())\r\n         {\r\n-            LOG_ERROR(\"sql.sql\", \"Skill condition specifies invalid skill value ({}), skipped\", cond->ConditionValue2);\r\n-            return false;\r\n+            // Handle cases where the user has set an expansion lower than the existing conditions. \r\n+            bool isError = true; \r\n+            int8 expansion = uint8(sWorld->getIntConfig(CONFIG_EXPANSION)); \r\n+            if(expansion == 1 && cond->ConditionValue2 > 300) {\r\n+                isError = false; \r\n+            }\r\n+\r\n+            if(expansion == 2 && cond->ConditionValue2 > 375) {\r\n+                isError = false; \r\n+            }\r\n+\r\n+            if(isError) {\r\n+                LOG_ERROR(\"sql.sql\", \"Skill condition specifies invalid skill value ({}), skipped\", cond->ConditionValue2);\r\n+                return false;\r\n+            }            \r\n         }\r\n```\r\n\r\n### Steps to reproduce the problem\r\n\r\n1. Set World config expansion lower than 3\r\n2. Start server \r\n\r\n### Extra Notes\r\n\r\n_No response_\r\n\r\n### AC rev. hash/commit\r\n\r\nhttps://github.com/azerothcore/azerothcore-wotlk/commit/859b6594a59ac5c0aecd65be787951dd93380892\r\n\r\n### Operating system\r\n\r\nUbuntu 18\r\n\r\n### Custom changes or Modules\r\n\r\nI have eluna and NPC Bots appled, but validated this is in main branch of azerothcore also ",
+      "comments": {
+        "totalCount": 2
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "azerothcore"
+        },
+        "name": "azerothcore-wotlk"
+      }
+    },
+    {
+      "createdAt": "2024-01-06T23:05:19Z",
+      "closedAt": "2024-01-06T23:32:07Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 18119,
+      "title": "SQL Update causes conflicts db_import for gameobject",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "### Current Behaviour\r\n\r\nWhen running db import updates for 11_12_07 the file creates gameobject that will conflict with servers that have used sql modules from the azerothcore modules site. \r\n\r\nError message im DBImport logs\r\n\r\n```\r\nUpdating World database...\r\n>> Applying update \"2023_11_12_07.sql\" '96ED637'...\r\nERROR 1062 (23000) at line 40 in file: '/azerothcore/data/sql/updates/db_world/2023_11_12_07.sql': Duplicate entry '2135505' for key 'gameobject.PRIMARY'\r\n```\r\n\r\nThe gameobject table is using an unsigned auto-increment so explicitly setting the guid is not necessary and by removing the set guid when adding the inserts into the gameobject table it will not create conflicts for servers that may have custom content installed in those guids. \r\n\r\n### Expected Blizzlike Behaviour\r\n\r\nThe new spawn points for the location of the gameobjects should not create an import conflict if there are existing guids in the table for that id.  The \r\n\r\n### Source\r\n\r\n_No response_\r\n\r\n### Steps to reproduce the problem\r\n\r\n1. Run sql  - will set up the database to have an existing entry at 2135505\r\n```\r\nINSERT INTO `gameobject` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`, `ScriptName`, `VerifiedBuild`)  VALUES\r\n(2135505, 500000, 530, 0, 0, 1, 1, -3550.81, 5709.02, 0.112858, 1.5979, 0, 0, -0.716625, -0.697459, 181, 100, 1, '', 0);\r\n```\r\n2.  run dbimport for file 2023_11_07.sql\r\n3.  View log in DBImport.log\r\n\r\n### Extra Notes\r\n\r\nThis would add the spawn locations of the objects without creating conflicts, allowing the auto-increment to create the primary key.  \r\n```\r\nDELETE FROM `gameobject` WHERE (`id` = 185211);\r\nINSERT INTO `gameobject` (`id`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`, `ScriptName`, `VerifiedBuild`) VALUES\r\n(185211, 530, 3519, 3686, 1, 1, -3660.15, 5811.12, 0.02822, 1.98968, 0, 0, 0.838671, 0.544639, 181, 100, 1, '', 0),\r\n(185211, 530, 3519, 3686, 1, 1, -3678.81, 5733.74, -1.00285, 0.733038, 0, 0, 0.358368, 0.93358, 181, 100, 1, '', 0),\r\n(185211, 530, 3519, 3686, 1, 1, -3639.31, 5831.26, 0.07337, -2.44346, 0, 0, 0.939693, -0.34202, 181, 100, 1, '', 0),\r\n(185211, 530, 0, 0, 1, 1, -3579.06, 5817.54, -3.24684, 3.7348, 0, 0, -0.956334, 0.292275, 181, 100, 1, '', 0),\r\n(185211, 530, 0, 0, 1, 1, -3674.35, 5709.55, -0.758734, 1.02344, 0, 0, -0.489679, -0.871903, 181, 100, 1, '', 0);\r\n\r\nDELETE FROM `gameobject` WHERE (`id` = 185210);\r\nINSERT INTO `gameobject` (`id`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`, `ScriptName`, `VerifiedBuild`) VALUES\r\n(185210, 530, 3519, 3686, 1, 1, -3568.34, 5772.01, -2.86157, 2.72271, 0, 0, 0.978148, 0.207912, 181, 100, 1, '', 0),\r\n(185210, 530, 3519, 3686, 1, 1, -3560.05, 5771.58, -3.12615, -0.506145, 0, 0, 0.25038, -0.968148, 181, 100, 1, '', 0),\r\n(185210, 530, 0, 0, 1, 1, -3550.81, 5709.02, 0.112858, 1.5979, 0, 0, -0.716625, -0.697459, 181, 100, 1, '', 0),\r\n(185210, 530, 0, 0, 1, 1, -3687.46, 5732.52, -0.673687, 0.680559, 0, 0, -0.333751, -0.942661, 181, 100, 1, '', 0),\r\n(185210, 530, 0, 0, 1, 1, -3620.8, 5760.07, 1.91674, 5.29837, 0, 0, -0.472748, 0.881198, 181, 100, 1, '', 0);\r\n```\r\n\r\n### AC rev. hash/commit\r\n\r\nhttps://github.com/azerothcore/azerothcore-wotlk/commit/1d3d3bebb8c855c760c74a40edf294904428b52c\r\n\r\n### Operating system\r\n\r\nUnbuntu 20\r\n\r\n### Custom changes or Modules\r\n\r\nSQL Script for Town Portals from Azerothcore modules site. ",
+      "comments": {
+        "totalCount": 7
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "azerothcore"
+        },
+        "name": "azerothcore-wotlk"
+      }
+    },
+    {
+      "createdAt": "2024-01-23T16:10:45Z",
+      "closedAt": "2024-01-31T14:56:28Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 12,
+      "title": "iac-pipeline-project will overwrite .gitignore ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "bug"
+          }
+        ]
+      },
+      "body": "### Description\n\nThe command to bootstrap a project with the new IaC repo in an existing repo wipes the .gitignore and commits it to the local repo. \n\n### Expected behaviour\n\nThe impact on .gitignore should be configurable in .projenrc.ts or via local configuration file.  Recommend providing more flexibility into how this works on existing repos where a .gitignore may be already defined for the repository. \n\n### Steps to reproduce the problem\n\n1.  create new repo \r\n2.  echo \"testfile >> .gitignore\r\n3. git add  . && git commit .\r\n4. npx projen new --from @rvoh-idp/iac-pipeline-project\r\n5. git log .gitignore\r\n\r\nHistory will show project overwriting .gitignore and commit. \n\n### Stack Trace\n\n_No response_\n\n### Node version\n\nv20.6.1\n\n### Other Info\n\nWould like to see an additional command line option to disable this or to check a local config file allowing a repo use to set a different handling strategy for .gitignore files. ",
+      "comments": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 1
+      },
+      "repository": {
+        "owner": {
+          "login": "rvoh-idp"
+        },
+        "name": "iac-pipeline-project"
+      }
+    },
+    {
+      "createdAt": "2024-01-24T15:19:37Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 14,
+      "title": "Feature Request: Add HIPAA deployment policies that can be targeted on creation",
+      "labels": {
+        "totalCount": 4,
+        "nodes": [
+          {
+            "name": "enhancement"
+          },
+          {
+            "name": "help wanted"
+          },
+          {
+            "name": "security"
+          },
+          {
+            "name": "hipaa"
+          }
+        ]
+      },
+      "body": "### Description\n\nCurrently the bootstrap deploys a common OIDC IAM policy, giving teams the ability to develop their own overrides.  For HIPAA accounts we need to have a prescribed deployment roles assigned that are assigned based on use case. \r\n \r\n\n\n### Expected behaviour\n\n\r\nThe following requirements should be met: \r\n1. Role policies should be reviewed and updated. \r\n2.  Least priviledge should be used and avoid should leverage allow list permissions vs deny list go account for future AWS changes. \r\n3. Any changes to policies used on HIPAA accounts must be reviewed by 2 platform engineers and change notices sent to security for awareness\r\n4. The system **MUST** have a way to distribute roles **MUST** that apply permissions based on a designated security risk assigned from our compliance or security engineering teams.  \r\n5. Community requests to change default policies are accepted but must follow the same review approvals. \n\n### Steps to reproduce the problem\n\nN/A\n\n### Stack Trace\n\n_No response_\n\n### Node version\n\n_No response_\n\n### Other Info\n\nWe should likely have a different PR workflow template for these types of requests to ensure approval and visibility of requirements are met. ",
+      "comments": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvoh-idp"
+        },
+        "name": "iac-pipeline-project"
+      }
+    },
+    {
+      "createdAt": "2024-01-25T19:51:20Z",
+      "closedAt": "2024-02-06T15:58:06Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 17,
+      "title": "feat(GitIgnore) Configire .gitignore from command line on project new",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "### Description\n\nI want to be able to pass behavior on new to our projen bootstrap IaC project to keep my .gitignore information. \n\n### Expected behaviour\n\nnpx project new --from rvoh-idp/iad-pipeline-project --configure gitignore.statetegy=\"merge\" \n\n### Steps to reproduce the problem\n\n_No response_\n\n### Stack Trace\n\n_No response_\n\n### Node version\n\n_No response_\n\n### Other Info\n\n_No response_",
+      "comments": {
+        "totalCount": 2
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 1
+      },
+      "repository": {
+        "owner": {
+          "login": "rvoh-idp"
+        },
+        "name": "iac-pipeline-project"
+      }
+    },
+    {
+      "createdAt": "2024-01-30T00:56:35Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 12,
+      "title": "chore: Warnings being throw when compiling",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "bug"
+          }
+        ]
+      },
+      "body": "I am seeing the following warnings when compiling.  It do not see any issues with functionality though, so not urgent. \r\n\r\n```bash\r\n28.76 [ 18%] Built target dbimport\r\n28.82 /azerothcore/modules/mod-auctionator/src/Auctionator.cpp:372:74: warning: unused parameter 'config' [-Wunused-parameter]\r\n28.82 float Auctionator::GetQualityMultiplier(AuctionatorPriceMultiplierConfig config, uint32 quality)\r\n28.82                                                                          ^\r\n28.82 1 warning generated.\r\n28.84 [ 18%] Building CXX object src/server/scripts/CMakeFiles/scripts.dir/cmake_pch.hxx.pch\r\n28.88 [ 18%] Building CXX object modules/CMakeFiles/modules.dir/mod-auctionator/src/AuctionatorCommands.cpp.o\r\n28.90 [ 18%] Building CXX object modules/CMakeFiles/modules.dir/mod-auctionator/src/AuctionatorSeller.cpp.o\r\n28.90 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-auctionator/src/AuctionatorEvents.cpp.o\r\n28.92 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-auctionator/src/Auctionator_loader.cpp.o\r\n28.93 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-auctionator/src/AuctionatorScript.cpp.o\r\n28.94 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-autobalance/src/AutoBalance.cpp.o\r\n28.95 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-autobalance/src/AB_loader.cpp.o\r\n28.97 [ 19%] Building CXX object modules/CMakeFiles/modules.dir/mod-better-item-reloading/src/BIR_loader.cpp.o\r\n29.02 /azerothcore/modules/mod-auctionator/src/AuctionatorCommands.cpp:19:21: warning: 'ChatCommand' is deprecated: std::vector<ChatCommand> should be ChatCommandTable! (using namespace Acore::ChatCommands) [-Wdeprecated-declarations]\r\n29.02         std::vector<ChatCommand> GetCommands() const override\r\n29.02                     ^\r\n29.02 /azerothcore/src/server/game/Chat/ChatCommands/ChatCommand.h:277:21: note: 'ChatCommand' has been explicitly marked deprecated here\r\n29.02 using ChatCommand [[deprecated(\"std::vector<ChatCommand> should be ChatCommandTable! (using namespace Acore::ChatCommands)\")]] = Acore::ChatCommands::ChatCommandBuilder;\r\n29.02                     ^\r\n29.02 /azerothcore/modules/mod-auctionator/src/AuctionatorCommands.cpp:21:32: warning: 'ChatCommand' is deprecated: std::vector<ChatCommand> should be ChatCommandTable! (using namespace Acore::ChatCommands) [-Wdeprecated-declarations]\r\n29.02             return std::vector<ChatCommand>\r\n29.02                                ^\r\n29.02 /azerothcore/src/server/game/Chat/ChatCommands/ChatCommand.h:277:21: note: 'ChatCommand' has been explicitly marked deprecated here\r\n29.02 using ChatCommand [[deprecated(\"std::vector<ChatCommand> should be ChatCommandTable! (using namespace Acore::ChatCommands)\")]] = Acore::ChatCommands::ChatCommandBuilder;\r\n29.02                     ^\r\n29.02 /azerothcore/modules/mod-auctionator/src/AuctionatorCommands.cpp:23:16: warning: 'ChatCommandBuilder' is deprecated: you are using the old-style command format; convert this to the new format ({ name, handler (not a pointer!), permission, Console::(Yes/No) }) [-Wdeprecated-declarations]\r\n29.02                {\r\n29.02                ^\r\n29.02 /azerothcore/src/server/game/Chat/ChatCommands/ChatCommand.h:257:9: note: 'ChatCommandBuilder' has been explicitly marked deprecated here\r\n29.02         ChatCommandBuilder(char const* name, uint32 securityLevel, bool console, TypedHandler* handler, char const*)\r\n29.02         ^\r\n29.02 3 warnings generated.\r\n```",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "mod-auctionator"
+      }
+    },
+    {
+      "createdAt": "2024-01-30T20:21:25Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 7,
+      "title": "Is this project dead at this point?",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "Let me know, I have sort of carried on where you started. ",
+      "comments": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "wartoshika"
+        },
+        "name": "wow-classic-declarations"
+      }
+    },
+    {
+      "createdAt": "2024-01-31T16:37:06Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 55,
+      "title": "chore(security): Update XML Parser to newest version",
+      "labels": {
+        "totalCount": 2,
+        "nodes": [
+          {
+            "name": "dependencies"
+          },
+          {
+            "name": "security"
+          }
+        ]
+      },
+      "body": "### Description\n\nUpdate to latest dependencies of XML Parser in APIs\n\n### Expected behaviour\n\nNA\n\n### Steps to reproduce the problem\n\n_No response_\n\n### Stack Trace\n\n_No response_\n\n### Other Info\n\nFrom Dependabot ",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvohealth"
+        },
+        "name": "inf-workspaces-automation"
+      }
+    },
+    {
+      "createdAt": "2024-01-31T16:39:27Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 56,
+      "title": "refactor(iac): Migrate deployment of development environment from terragrunt system to new IaC Pipeline",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "### Description\r\n\r\nMigrate to the deployment of infrastructure to newest way to deploy infrastructure as code at RVOHEalth\r\n\r\n### Expected behaviour\r\n\r\nGitHub Actions will now use the new actions supplied by shared pipeline.  The pipeline \r\n\r\n### Steps to reproduce the problem\r\n\r\n_No response_\r\n\r\n### Stack Trace\r\n\r\n_No response_\r\n\r\n### Other Info\r\n\r\n_No response_",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvohealth"
+        },
+        "name": "inf-workspaces-automation"
+      }
+    },
+    {
+      "createdAt": "2024-01-31T17:40:49Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 57,
+      "title": "feat(app deploy): Create GHA build script for the API code in the API's ",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "### Description\n\nCurrently the APIs are manually built and deployed via the Terragrunt process.  This was a fast way to get this live and given the project will now have a longer lifespan, it needs a GHA build job setup as part of the deployment process for APIs. \r\n\r\nThis is necessary for change control tracking and enabling collaboration from other developers with ease. \n\n### Expected behaviour\n\n1. On new PR if an API code change has happened it will build a new artifact \r\n2. If tests are built they will run and reject if change breaks \r\n3. artifacts should be save to npm repository \r\n4. On merge deployment should run via IAC process picking the release artifact for that target. \r\n \n\n### Steps to reproduce the problem\n\nNot a bug\n\n### Stack Trace\n\n_No response_\n\n### Other Info\n\n_No response_",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvohealth"
+        },
+        "name": "inf-workspaces-automation"
+      }
+    },
+    {
+      "createdAt": "2024-02-04T05:26:02Z",
+      "closedAt": "2024-02-04T17:08:00Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 1531,
+      "title": "tstl.transpileString API does not work correctly with CompilerOption Inline",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "scope: tooling"
+          }
+        ]
+      },
+      "body": "When using transpileString on the following code: \r\n\r\n```typescript\r\nimport * as ts from \"typescript\";\r\nimport * as tstl from \"typescript-to-lua\";\r\n\r\nconst result2 = tstl.transpileString('const mapper: Map<string, number> = new Map();  mapper.set(\"key\", 4); const myset: Set<string> = new Set();', { luaLibImport: tstl.LuaLibImportKind.Inline}); \r\nconsole.log(result2.file?.lua); \r\n```\r\n\r\nThe result is \r\n```lua\r\n--[[ Generated with https://github.com/TypeScriptToLua/TypeScriptToLua ]]\r\n-- Lua Library inline imports\r\nlocal function __TS__New(target, ...)\r\n    local instance = setmetatable({}, target.prototype)\r\n    instance:____constructor(...)\r\n    return instance\r\nend\r\n-- End of Lua Library inline imports\r\nmapper = __TS__New(Map)\r\nmapper:set(\"key\", 4)\r\nmyset = __TS__New(Set)\r\n```\r\n\r\nThe exact same code put into transpileFiles produces the correct inline result as shown below. \r\n```typescript\r\nconst result = tstl.transpileFiles(['./map.test.ts'], { luaLibImport: tstl.LuaLibImportKind.Inline}); \r\n```\r\nWhich produces lua code like this: \r\n```lua\r\n--[[ Generated with https://github.com/TypeScriptToLua/TypeScriptToLua ]]\r\n-- Lua Library inline imports\r\nlocal function __TS__Class(self)\r\n    local c = {prototype = {}}\r\n    c.prototype.__index = c.prototype\r\n    c.prototype.constructor = c\r\n    return c\r\nend\r\n\r\nlocal __TS__Symbol, Symbol\r\ndo\r\n    local symbolMetatable = {__tostring = function(self)\r\n        return (\"Symbol(\" .. (self.description or \"\")) .. \")\"\r\n    end}\r\n    function __TS__Symbol(description)\r\n        return setmetatable({description = description}, symbolMetatable)\r\n    end\r\n    Symbol = {\r\n        asyncDispose = __TS__Symbol(\"Symbol.asyncDispose\"),\r\n        dispose = __TS__Symbol(\"Symbol.dispose\"),\r\n        iterator = __TS__Symbol(\"Symbol.iterator\"),\r\n        hasInstance = __TS__Symbol(\"Symbol.hasInstance\"),\r\n        species = __TS__Symbol(\"Symbol.species\"),\r\n        toStringTag = __TS__Symbol(\"Symbol.toStringTag\")\r\n    }\r\nend\r\n\r\nlocal __TS__Iterator\r\ndo\r\n    local function iteratorGeneratorStep(self)\r\n        local co = self.____coroutine\r\n        local status, value = coroutine.resume(co)\r\n        if not status then\r\n            error(value, 0)\r\n        end\r\n        if coroutine.status(co) == \"dead\" then\r\n            return\r\n        end\r\n        return true, value\r\n    end\r\n    local function iteratorIteratorStep(self)\r\n        local result = self:next()\r\n        if result.done then\r\n            return\r\n        end\r\n        return true, result.value\r\n    end\r\n    local function iteratorStringStep(self, index)\r\n        index = index + 1\r\n        if index > #self then\r\n            return\r\n        end\r\n        return index, string.sub(self, index, index)\r\n    end\r\n    function __TS__Iterator(iterable)\r\n        if type(iterable) == \"string\" then\r\n            return iteratorStringStep, iterable, 0\r\n        elseif iterable.____coroutine ~= nil then\r\n            return iteratorGeneratorStep, iterable\r\n        elseif iterable[Symbol.iterator] then\r\n            local iterator = iterable[Symbol.iterator](iterable)\r\n            return iteratorIteratorStep, iterator\r\n        else\r\n            return ipairs(iterable)\r\n        end\r\n    end\r\nend\r\n\r\nlocal Map\r\ndo\r\n    Map = __TS__Class()\r\n    Map.name = \"Map\"\r\n    function Map.prototype.____constructor(self, entries)\r\n        self[Symbol.toStringTag] = \"Map\"\r\n        self.items = {}\r\n        self.size = 0\r\n        self.nextKey = {}\r\n        self.previousKey = {}\r\n        if entries == nil then\r\n            return\r\n        end\r\n        local iterable = entries\r\n        if iterable[Symbol.iterator] then\r\n            local iterator = iterable[Symbol.iterator](iterable)\r\n            while true do\r\n                local result = iterator:next()\r\n                if result.done then\r\n                    break\r\n                end\r\n                local value = result.value\r\n                self:set(value[1], value[2])\r\n            end\r\n        else\r\n            local array = entries\r\n            for ____, kvp in ipairs(array) do\r\n                self:set(kvp[1], kvp[2])\r\n            end\r\n        end\r\n    end\r\n    function Map.prototype.clear(self)\r\n        self.items = {}\r\n        self.nextKey = {}\r\n        self.previousKey = {}\r\n        self.firstKey = nil\r\n        self.lastKey = nil\r\n        self.size = 0\r\n    end\r\n    function Map.prototype.delete(self, key)\r\n        local contains = self:has(key)\r\n        if contains then\r\n            self.size = self.size - 1\r\n            local next = self.nextKey[key]\r\n            local previous = self.previousKey[key]\r\n            if next ~= nil and previous ~= nil then\r\n                self.nextKey[previous] = next\r\n                self.previousKey[next] = previous\r\n            elseif next ~= nil then\r\n                self.firstKey = next\r\n                self.previousKey[next] = nil\r\n            elseif previous ~= nil then\r\n                self.lastKey = previous\r\n                self.nextKey[previous] = nil\r\n            else\r\n                self.firstKey = nil\r\n                self.lastKey = nil\r\n            end\r\n            self.nextKey[key] = nil\r\n            self.previousKey[key] = nil\r\n        end\r\n        self.items[key] = nil\r\n        return contains\r\n    end\r\n    function Map.prototype.forEach(self, callback)\r\n        for ____, key in __TS__Iterator(self:keys()) do\r\n            callback(nil, self.items[key], key, self)\r\n        end\r\n    end\r\n    function Map.prototype.get(self, key)\r\n        return self.items[key]\r\n    end\r\n    function Map.prototype.has(self, key)\r\n        return self.nextKey[key] ~= nil or self.lastKey == key\r\n    end\r\n    function Map.prototype.set(self, key, value)\r\n        local isNewValue = not self:has(key)\r\n        if isNewValue then\r\n            self.size = self.size + 1\r\n        end\r\n        self.items[key] = value\r\n        if self.firstKey == nil then\r\n            self.firstKey = key\r\n            self.lastKey = key\r\n        elseif isNewValue then\r\n            self.nextKey[self.lastKey] = key\r\n            self.previousKey[key] = self.lastKey\r\n            self.lastKey = key\r\n        end\r\n        return self\r\n    end\r\n    Map.prototype[Symbol.iterator] = function(self)\r\n        return self:entries()\r\n    end\r\n    function Map.prototype.entries(self)\r\n        local items = self.items\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = {key, items[key]}}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    function Map.prototype.keys(self)\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = key}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    function Map.prototype.values(self)\r\n        local items = self.items\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = items[key]}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    Map[Symbol.species] = Map\r\nend\r\n\r\nlocal function __TS__New(target, ...)\r\n    local instance = setmetatable({}, target.prototype)\r\n    instance:____constructor(...)\r\n    return instance\r\nend\r\n\r\nlocal Set\r\ndo\r\n    Set = __TS__Class()\r\n    Set.name = \"Set\"\r\n    function Set.prototype.____constructor(self, values)\r\n        self[Symbol.toStringTag] = \"Set\"\r\n        self.size = 0\r\n        self.nextKey = {}\r\n        self.previousKey = {}\r\n        if values == nil then\r\n            return\r\n        end\r\n        local iterable = values\r\n        if iterable[Symbol.iterator] then\r\n            local iterator = iterable[Symbol.iterator](iterable)\r\n            while true do\r\n                local result = iterator:next()\r\n                if result.done then\r\n                    break\r\n                end\r\n                self:add(result.value)\r\n            end\r\n        else\r\n            local array = values\r\n            for ____, value in ipairs(array) do\r\n                self:add(value)\r\n            end\r\n        end\r\n    end\r\n    function Set.prototype.add(self, value)\r\n        local isNewValue = not self:has(value)\r\n        if isNewValue then\r\n            self.size = self.size + 1\r\n        end\r\n        if self.firstKey == nil then\r\n            self.firstKey = value\r\n            self.lastKey = value\r\n        elseif isNewValue then\r\n            self.nextKey[self.lastKey] = value\r\n            self.previousKey[value] = self.lastKey\r\n            self.lastKey = value\r\n        end\r\n        return self\r\n    end\r\n    function Set.prototype.clear(self)\r\n        self.nextKey = {}\r\n        self.previousKey = {}\r\n        self.firstKey = nil\r\n        self.lastKey = nil\r\n        self.size = 0\r\n    end\r\n    function Set.prototype.delete(self, value)\r\n        local contains = self:has(value)\r\n        if contains then\r\n            self.size = self.size - 1\r\n            local next = self.nextKey[value]\r\n            local previous = self.previousKey[value]\r\n            if next ~= nil and previous ~= nil then\r\n                self.nextKey[previous] = next\r\n                self.previousKey[next] = previous\r\n            elseif next ~= nil then\r\n                self.firstKey = next\r\n                self.previousKey[next] = nil\r\n            elseif previous ~= nil then\r\n                self.lastKey = previous\r\n                self.nextKey[previous] = nil\r\n            else\r\n                self.firstKey = nil\r\n                self.lastKey = nil\r\n            end\r\n            self.nextKey[value] = nil\r\n            self.previousKey[value] = nil\r\n        end\r\n        return contains\r\n    end\r\n    function Set.prototype.forEach(self, callback)\r\n        for ____, key in __TS__Iterator(self:keys()) do\r\n            callback(nil, key, key, self)\r\n        end\r\n    end\r\n    function Set.prototype.has(self, value)\r\n        return self.nextKey[value] ~= nil or self.lastKey == value\r\n    end\r\n    Set.prototype[Symbol.iterator] = function(self)\r\n        return self:values()\r\n    end\r\n    function Set.prototype.entries(self)\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = {key, key}}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    function Set.prototype.keys(self)\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = key}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    function Set.prototype.values(self)\r\n        local nextKey = self.nextKey\r\n        local key = self.firstKey\r\n        return {\r\n            [Symbol.iterator] = function(self)\r\n                return self\r\n            end,\r\n            next = function(self)\r\n                local result = {done = not key, value = key}\r\n                key = nextKey[key]\r\n                return result\r\n            end\r\n        }\r\n    end\r\n    Set[Symbol.species] = Set\r\nend\r\n-- End of Lua Library inline imports\r\nmapper = __TS__New(Map)\r\nmyset = __TS__New(Set)\r\n```\r\n",
+      "comments": {
+        "totalCount": 1
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "TypeScriptToLua"
+        },
+        "name": "TypeScriptToLua"
+      }
+    },
+    {
+      "createdAt": "2024-02-04T16:35:05Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 2,
+      "title": "feat(cli): Add support to update files from later version",
+      "labels": {
+        "totalCount": 2,
+        "nodes": [
+          {
+            "name": "enhancement"
+          },
+          {
+            "name": "good first issue"
+          }
+        ]
+      },
+      "body": "Currently only new installs receive the benefits of changes to tsconfig.json or plugin code there should be an update similar to \r\nohZsh that lets the user know on next run that there is a newer version ask if they would like to update. \r\n\r\n\r\nAdditionally this should support \r\n```bash\r\nnpx ets update \r\n```",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-eluna-ts-module"
+      }
+    },
+    {
+      "createdAt": "2024-02-04T16:38:31Z",
+      "closedAt": "2024-02-04T16:47:22Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 3,
+      "title": "bug(aio-plugin): Not all TypeScript polyfills are being inline for *client.ts ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "bug"
+          }
+        ]
+      },
+      "body": "Confirmed Map and Set Types are not being imported corrctly into final transpiled lua AIO client files. \r\n\r\n```typescript\r\nconst mymap: Map<string, object> = new Map(); \r\nconst myset: Set<string> = new Set()\r\n```\r\n\r\nBoth of the functions will cause errors at runtime in client because they are not inlined like they are supposed to. \r\n\r\nThis issue has been added to TypescriptToLua project [here](https://github.com/TypeScriptToLua/TypeScriptToLua/issues/1531)",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 1
+      },
+      "repository": {
+        "owner": {
+          "login": "araxiaonline"
+        },
+        "name": "wow-eluna-ts-module"
+      }
+    },
+    {
+      "createdAt": "2024-02-06T21:58:30Z",
+      "closedAt": "2024-02-08T16:43:49Z",
+      "closed": true,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 19,
+      "title": "Feature: Create central configuration for managing project generation ",
+      "labels": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "body": "### Description\n\nAs a user of the system I want to be able to configure a root level folder and control the initial and future configuration of my iac project.   \r\n\r\nThis original discussion happened as part of this PR: https://github.com/rvoh-idp/iac-pipeline-project/pull/18. it was pointed out that there should be a single place to manage configuration for the project on the file system. \r\n\r\nToday there are 2 config/* and inside of the project in typescript itself. \n\n### Expected behaviour\n\nI want to manage 1 file at the root of my project to configure options on the project generation and future synths. \r\n\r\nThe use case I have is using the iac-pipeline-project in an existing repo where I have an existing .gitignore and files.  I want to customized behavior before the template is run and overwrites my local repo work and commits it to git history. \r\n\r\n\n\n### Steps to reproduce the problem\n\nNA\n\n### Stack Trace\n\nNA\n\n### Node version\n\n_No response_\n\n### Other Info\n\n_No response_",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 0
+      },
+      "repository": {
+        "owner": {
+          "login": "rvoh-idp"
+        },
+        "name": "iac-pipeline-project"
+      }
+    },
+    {
+      "createdAt": "2024-02-14T16:35:12Z",
+      "closedAt": null,
+      "closed": false,
+      "author": {
+        "login": "ben-of-codecraft"
+      },
+      "number": 59,
+      "title": "feat(API):  Add new endpoints to create firewall rules in the domain list rule for Workspaces ",
+      "labels": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "enhancement"
+          }
+        ]
+      },
+      "body": "### Description\n\nNeed a way to add domains to the firewall rule group and set an expiration time if the domain should only be open for a period of time. \n\n### Expected behaviour\n\n1. API should add a list of domains to the firewall rules assigned to the Workspaces VPC\r\n2. domains that are added with a ttl will be removed within the hour of the ttl expiring. \r\n3. domains without a ttl will remain on the list \r\n4. there should be no duplicate domains added but not throw an error. \n\n### Steps to reproduce the problem\n\nNA\n\n### Stack Trace\n\n_No response_\n\n### Other Info\n\n_No response_",
+      "comments": {
+        "totalCount": 0
+      },
+      "reactions": {
+        "totalCount": 0
+      },
+      "assignees": {
+        "totalCount": 1
+      },
+      "repository": {
+        "owner": {
+          "login": "rvohealth"
+        },
+        "name": "inf-workspaces-automation"
+      }
+    }
+  ]
 }
