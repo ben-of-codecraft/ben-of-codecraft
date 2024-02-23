@@ -40,7 +40,7 @@ I update my GH profile pic with art from my 12 and 10 year old daughters (who se
       <img src="images/clara-owl.jpg" width="200px">
     </td>
     <td align="center">
-      <!-- Third image goes here -->
+      <img src="images/claras-cat.jpg" width="200px">
     </td>
   </tr>
 </table>
