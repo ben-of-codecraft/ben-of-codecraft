@@ -45,10 +45,31 @@ I update my GH profile pic with art from my 12 and 10 year old daughters (who se
   </tr>
 </table>
 
-| *Jan* | *Feb* | *Mar* |
-| --- | --- | --- |
-| <img src="images/Jan.png" align="center" width="200px"> | <img src="images/Feb.png" align="center" width="200px">     | <img src="images/March.png" align="center" width="200px" height="200px">    |
-| *April* | *May* | *June* |
-| <img src="images/April.png" align="center" width="200px"> | <img src="images/May.png" align="center" width="200px" height="200px">     | <img src="images/June.png" align="center" width="200px" height="200px">    |
+### 2023
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Jan.png" width="200px">
+    </td>
+    <td align="center">
+      <img src="images/Feb.png" width="200px">
+    </td>
+    <td align="center">
+      <img src="images/March.png" width="200px" height="200px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/April.png" width="200px">
+    </td>
+    <td align="center">
+      <img src="images/May.png" width="200px" height="200px">
+    </td>
+    <td align="center">
+      <img src="images/June.png" width="200px" height="200px">
+    </td>
+  </tr>
+</table>
+
 
 <br clear="left">
