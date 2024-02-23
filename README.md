@@ -31,8 +31,19 @@
 I update my GH profile pic with art from my 12 year old daughter (who seems to have a knack for digital art) below is the archive of photos that have been used. 
 
 ### 2024
-
-| <img src="images/drawing-convert.jpg" align="center" width="200px"> 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/drawing-convert.jpg" width="200px">
+    </td>
+    <td align="center">
+      <img src="images/clara-owl.jpg" width="200px">
+    </td>
+    <td align="center">
+      <!-- Third image goes here -->
+    </td>
+  </tr>
+</table>
 
 | *Jan* | *Feb* | *Mar* |
 | --- | --- | --- |
