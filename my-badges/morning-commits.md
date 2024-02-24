@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/1dc258d7b0a9e7965e3636a355df57ff80a04480">1dc258d</a>
+- <a href="https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/0e5aeb4568bb27f62497c0fc8aec1a6dc7e996cf">0e5aeb4</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
