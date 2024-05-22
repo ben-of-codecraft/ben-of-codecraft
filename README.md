@@ -23,6 +23,8 @@
 <a href="my-badges/mass-delete-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
+<a href="my-badges/pr-collaboration-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
+<a href="my-badges/pr-collaboration-10.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-10.png?raw=true" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <!-- my-badges end -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
