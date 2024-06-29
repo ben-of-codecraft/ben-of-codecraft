@@ -8,7 +8,7 @@ We are nearing the end of our 2nd cycle of completion of our refined approach of
 We have had a few projects launched that we wish to launch that did not get focus or time investment. We wish they could have.  In the previous model, it was challenging to get dedicated people or time for projects to be developed. This resulted in individual efforts or many start-stops. 
 
 #### Intermingle individuals across teams
-Since the teams started as infrastructure support for big buckets of business: Healthgrades, Healthline, and later Optum.  There was not a lot of mixing of work, so teams did not naturally collaborate.  The mix-up of the squad model moved people around, with each squad coming from those 2 big business lines, working together to form new relationships and natural collaboration. 
+Since the teams started as infrastructure support.  There was not a lot of mixing of work, so teams did not naturally collaborate.  The mix-up of the squad model moved people around, with each squad coming from those 2 big business lines, working together to form new relationships and natural collaboration. 
 
 #### Better scoping and requirements setting
 The Shape-up model was to enable a pipeline of preventer work based on research and collaboration of the team managers + technical product manager. The idea being to build a flow of work of important with a defined scope to reduce risk of trying to take on too much. 
