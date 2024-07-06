@@ -4,49 +4,49 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/ben-of-codecraft/electron-wix-msi/commit/a7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5\"><strong>a</strong>7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/0e5aeb4568bb27f62497c0fc8aec1a6dc7e996cf\">0e5aeb4</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/c3d4292b0b562954322a877cc07ba0011f0bcee9\">c3d4292</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/b38038e1ccbda113aa287dc09bb3e24cb778b755\">b38038e</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/4e7e32aac48b841621f6482608769aa97bd9d3a7\">4e7e32a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/09d1a8b4ddf67d85c0053f8a2c862f651cb1f09b\">09d1a8b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7347a25c993c4dc87af484de5005e6d713ad0ad0\">7347a25</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ee2d60cacd942a7c0be9f823860c6a6275a9180d\">ee2d60c</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/1dc258d7b0a9e7965e3636a355df57ff80a04480\">1dc258d</a>: fixed more issues with uploaded and fixed windows electron build\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/0e5aeb4568bb27f62497c0fc8aec1a6dc7e996cf\">0e5aeb4</a>: Fixed issue with unrecognized mimetypes like binray files",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true"
   },
   {
     "id": "public-keys-5",
     "tier": 5,
     "desc": "I have five or more public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-5.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-5.png?raw=true"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"improving\".",
     "body": "My favorite commit message words are:\n\n1. improving (used 15 times)\n2. readme (used 15 times)\n3. added (used 10 times)\n4. update (used 8 times)\n5. readme.md (used 8 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
   },
   {
     "id": "rebel-coder",
     "tier": 0,
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/rebel-coder.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/rebel-coder.png?raw=true"
   },
   {
     "id": "polite-coder",
@@ -60,41 +60,48 @@
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ab20546f58856de224dcfb2f6fb7cbb7118928e8\"><strong>ab</strong>20546f58856de224dcfb2f6fb7cbb7118928e8</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/8093e382aa898048e24446432bf16f85e678b90d\">8093e38</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/8093e382aa898048e24446432bf16f85e678b90d\">8093e38</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/electron-s3-file-manager/commit/1dc258d7b0a9e7965e3636a355df57ff80a04480\">1dc258d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
   },
   {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/diggerhq/digger/pull/1491\">#1491</a>: Bug/add region to aws assume role",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-5.png?raw=true"
   },
   {
     "id": "pr-collaboration-10",
     "tier": 2,
     "desc": "I have participated in pull requests with 10 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/diggerhq/digger/pull/1491\">#1491</a>: Bug/add region to aws assume role",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-10.png?raw=true"
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/pr-collaboration/pr-collaboration-10.png?raw=true"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/240a20916dfc5b5158eb6ecafe5c29dfdfe6176c\">240a20916dfc5b5158eb6e<strong>cafe</strong>5c29dfdfe6176c</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true"
   }
 ]
