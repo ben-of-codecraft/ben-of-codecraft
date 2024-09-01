@@ -11,9 +11,9 @@
 ## My active projects
 
 * Owner of AraxiaOnline Organization with
-* [Araxia Online Open Source Game Projects] (https://github.com/araxiaonline)
+* [Araxia Online Open Source Game Projects](https://github.com/araxiaonline)
 * [https://araxiaonline.github.io/docs/#/](https://araxiaonline.github.io/docs/#/)
-* Join us on [discord]! (https://discord.gg/e2VQQz4D)
+* Join us on [discord](https://discord.gg/e2VQQz4D)!
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
