@@ -10,7 +10,7 @@
 
 ## My active projects
 
-* Owner of AraxiaOnline Organization with
+* Owner of [Araxia Online Org](https://github.com/araxiaonline)
 * [Araxia Online Open Source Game Projects](https://github.com/araxiaonline)
 * [https://araxiaonline.github.io/docs/#/](https://araxiaonline.github.io/docs/#/)
 * Join us on [discord](https://discord.gg/e2VQQz4D)!
