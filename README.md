@@ -30,50 +30,5 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<br><br>
-## Archive of GitHub Profile
-I update my GH profile pic with art from my 12 and 10 year old daughters (who seems to have a knack for digital art) below is the archive of photos that have been used. 
-
-### 2024
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/drawing-convert.jpg" width="200px">
-    </td>
-    <td align="center">
-      <img src="images/clara-owl.jpg" width="200px">
-    </td>
-    <td align="center">
-      <img src="images/claras-cat.jpg" width="200px">
-    </td>
-  </tr>
-</table>
-
-### 2023
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/Jan.png" width="200px">
-    </td>
-    <td align="center">
-      <img src="images/Feb.png" width="200px">
-    </td>
-    <td align="center">
-      <img src="images/March.png" width="200px" height="200px">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/April.png" width="200px">
-    </td>
-    <td align="center">
-      <img src="images/May.png" width="200px" height="200px">
-    </td>
-    <td align="center">
-      <img src="images/June.png" width="200px" height="200px">
-    </td>
-  </tr>
-</table>
-
 
 <br clear="left">
