@@ -4,9 +4,9 @@
 
 <span style="font-size:14px; display: inline-block; padding-right:14px">👨‍👩‍👧</span> with my wonderful wife, two daughters, and two dogs.
 
-<span style="font-size:16px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer and game modder actively building new modules for World of Warcraft Servers.
+<span style="font-size:16px; display: inline-block; padding-right:10px">🎮</span> I'm an avid gamer and game modder actively run and build custom open source content for World of Warcraft Servers.
 
-<span style="font-size:22px; display: inline-block; padding-right:10px">👨‍💻</span>  I love writing code and working on open source projects, especially with TypeScript.  
+<span style="font-size:22px; display: inline-block; padding-right:10px">👨‍💻</span>  I love writing code and working on open source projects, especially in Go
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
