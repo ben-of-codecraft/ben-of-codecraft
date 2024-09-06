@@ -103,5 +103,12 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/240a20916dfc5b5158eb6ecafe5c29dfdfe6176c\">240a20916dfc5b5158eb6e<strong>cafe</strong>5c29dfdfe6176c</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/araxiaonline/AzerothCore-wotlk-with-NPCBots/pull/6\">#6</a>: Fix/docker modules not running sql",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
