@@ -52,8 +52,8 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/rvohealth/QuitNow-CorpSite/issues/148\">#148</a>: Critical Vulnerabilities on dependencies in docker image. ",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/diggerhq/digger/issues/1715\">#1715</a>: Add the ability to add a header to the top of the comments",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "ab-commit",
