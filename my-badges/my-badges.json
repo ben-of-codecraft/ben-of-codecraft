@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ben-of-codecraft/electron-wix-msi/commit/a7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5\"><strong>a</strong>7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5</a>",
+    "body": "- <a href=\"https://github.com/ben-of-codecraft/workshop-model-viewer/commit/adced1235b55b2560d5a6acf8c50fae15951fdea\"><strong>a</strong>dced1235b55b2560d5a6acf8c50fae15951fdea</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/c3d4292b0b562954322a877cc07ba0011f0bcee9\">c3d4292</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/b38038e1ccbda113aa287dc09bb3e24cb778b755\">b38038e</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/4e7e32aac48b841621f6482608769aa97bd9d3a7\">4e7e32a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/09d1a8b4ddf67d85c0053f8a2c862f651cb1f09b\">09d1a8b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7347a25c993c4dc87af484de5005e6d713ad0ad0\">7347a25</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/ee2d60cacd942a7c0be9f823860c6a6275a9180d\">ee2d60c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ben-of-codecraft/workshop-model-viewer/commit/b6f60020eb12131ddd2e24dcc4c995608937e884\">b6f6002</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/c3d4292b0b562954322a877cc07ba0011f0bcee9\">c3d4292</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/b38038e1ccbda113aa287dc09bb3e24cb778b755\">b38038e</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/4e7e32aac48b841621f6482608769aa97bd9d3a7\">4e7e32a</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/09d1a8b4ddf67d85c0053f8a2c862f651cb1f09b\">09d1a8b</a>\n- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/7347a25c993c4dc87af484de5005e6d713ad0ad0\">7347a25</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -37,8 +37,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"improving\".",
-    "body": "My favorite commit message words are:\n\n1. improving (used 15 times)\n2. readme (used 15 times)\n3. update (used 14 times)\n4. readme.md (used 14 times)\n5. added (used 11 times)",
+    "desc": "My favorite word is \"readme\".",
+    "body": "My favorite commit message words are:\n\n1. readme (used 18 times)\n2. added (used 17 times)\n3. improving (used 15 times)\n4. update (used 14 times)\n5. readme.md (used 14 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

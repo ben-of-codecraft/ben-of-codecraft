@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/ben-of-codecraft/electron-wix-msi/commit/a7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5"><strong>a</strong>7ff90ac7620cbafdfaaffc0b807d21f4b66b4e5</a>
+- <a href="https://github.com/ben-of-codecraft/workshop-model-viewer/commit/adced1235b55b2560d5a6acf8c50fae15951fdea"><strong>a</strong>dced1235b55b2560d5a6acf8c50fae15951fdea</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
