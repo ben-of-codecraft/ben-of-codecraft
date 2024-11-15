@@ -14,6 +14,7 @@ jobs:
 
       - name: List all repositories in the organization
         id: list_repos
+        shell: bash
         run: |
           PAGE=1
           while :; do
@@ -23,9 +24,10 @@ jobs:
             [ "$(echo "$RESPONSE" | jq -r 'length')" -lt 100 ] && break
             PAGE=$((PAGE + 1))
           done
-          cat authored_repo_list.txt
+          echo $(cat authored_repo_list.txt)
 
       - name: Fork each authored repository to personal account
+        shell: bash
         run: |
           while read -r repo_name; do
             if [ -n "$repo_name" ]; then
