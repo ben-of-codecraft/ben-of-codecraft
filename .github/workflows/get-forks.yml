@@ -9,18 +9,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Initialize empty repo list file
+        run: echo "" > authored_repo_list.txt
+
       - name: List all repositories in the organization
         id: list_repos
         run: |
-          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/orgs/araxiaonline/repos?per_page=100" \
-          | jq -r '.[] | select(.owner.login == "ben-of-codecraft") | .name' > authored_repo_list.txt
+          PAGE=1
+          while :; do
+            RESPONSE=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/orgs/araxiaonline/repos?per_page=100&page=${PAGE}")
+            echo "$RESPONSE" | jq -r '.[] | select(.owner.login == "ben-of-codecraft") | .name' >> authored_repo_list.txt
+            [ "$(echo "$RESPONSE" | jq -r 'length')" -lt 100 ] && break
+            PAGE=$((PAGE + 1))
+          done
           cat authored_repo_list.txt
 
       - name: Fork each authored repository to personal account
         run: |
-          while read repo_name; do
-            curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/araxiaonline/${repo_name}/forks" \
-            -d "{\"organization\":\"${{ github.repository_owner }}\"}"
+          while read -r repo_name; do
+            if [ -n "$repo_name" ]; then
+              curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/repos/araxiaonline/${repo_name}/forks" \
+              -d "{\"organization\":\"${{ github.repository_owner }}\"}"
+            fi
           done < authored_repo_list.txt
