@@ -1,0 +1,25 @@
+# .github/workflows/fork-authored-repos.yml
+name: Fork Authored Repositories
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fork_authored_repos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: List all repositories in the organization
+        id: list_repos
+        run: |
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/orgs/araxiaonline/repos?per_page=100" \
+          | jq -r '.[] | select(.owner.login == "ben-of-codecraft") | .name' > authored_repo_list.txt
+
+      - name: Fork each authored repository to personal account
+        run: |
+          while read repo_name; do
+            curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/araxiaonline/${repo_name}/forks" \
+            -d "{\"organization\":\"${{ github.repository_owner }}\"}"
+          done < authored_repo_list.txt
