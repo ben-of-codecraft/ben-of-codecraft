@@ -15,6 +15,7 @@ jobs:
           curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           "https://api.github.com/orgs/araxiaonline/repos?per_page=100" \
           | jq -r '.[] | select(.owner.login == "ben-of-codecraft") | .name' > authored_repo_list.txt
+          cat authored_repo_list.txt
 
       - name: Fork each authored repository to personal account
         run: |
