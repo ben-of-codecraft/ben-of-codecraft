@@ -12,7 +12,6 @@
 
 * Owner of [Araxia Online Open Source Game Projects](https://github.com/araxiaonline)
 * [https://araxiaonline.github.io/docs/#/](https://araxiaonline.github.io/docs/#/)
-* Join us on [discord](https://discord.gg/e2VQQz4D)!
 
 
 <!-- my-badges start -->
