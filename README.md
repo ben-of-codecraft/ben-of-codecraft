@@ -28,8 +28,8 @@
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
-<a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
+<a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
