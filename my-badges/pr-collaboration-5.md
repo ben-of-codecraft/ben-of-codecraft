@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/diggerhq/digger/pull/1491">#1491</a>: Bug/add region to aws assume role
+- <a href="https://github.com/azerothcore/azerothcore-wotlk/pull/19870">#19870</a>: Fix(docker) Modules SQL do not get updated or populated for docker set ups
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
