@@ -35,13 +35,6 @@
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
-    "id": "polite-coder",
-    "tier": 0,
-    "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/diggerhq/digger/issues/1715\">#1715</a>: Add the ability to add a header to the top of the comments",
-    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
@@ -70,32 +63,11 @@
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
-    "id": "pr-collaboration-5",
-    "tier": 1,
-    "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/azerothcore/azerothcore-wotlk/pull/19870\">#19870</a>: Fix(docker) Modules SQL do not get updated or populated for docker set ups",
-    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
-  },
-  {
-    "id": "pr-collaboration-10",
-    "tier": 2,
-    "desc": "I have participated in pull requests with 10 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/diggerhq/digger/pull/1491\">#1491</a>: Bug/add region to aws assume role",
-    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
-  },
-  {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/ben-of-codecraft/ben-of-codecraft/commit/240a20916dfc5b5158eb6ecafe5c29dfdfe6176c\">240a20916dfc5b5158eb6e<strong>cafe</strong>5c29dfdfe6176c</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "the-ultimate-question",
-    "tier": 0,
-    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/araxiaonline/mod-mythic-plus/issues/42\">#42</a>",
-    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "public-keys-2",
